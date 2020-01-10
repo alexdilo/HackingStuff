@@ -1,0 +1,54 @@
+HASHID 
+Identify the different types of hashes used to encrypt data and especially passwords.
+########################
+#######################
+
+BINWALK 
+https://github.com/ReFirmLabs/binwalk
+Analyze and extract files
+########################
+######################
+
+STEGSOLVE 
+www.caesum.com/handbook/Stegsolve.jar
+Pass various filters over images to look for hidden text
+#####################
+####################
+
+GOBUSTER
+https://github.com/OJ/gobuster
+Gobuster is a tool used to brute-force:
+URIs (directories and files) in web sites.
+DNS subdomains (with wildcard support).
+Virtual Host names on target web servers.
+######################
+#####################
+
+EXIF
+EXIFTOOL 
+shows EXIF information in JPEG files
+######################
+######################
+
+
+LINUXPRIVCHECKER
+Linux Privilege Escalation Check Script 
+https://github.com/sleventyeleven/linuxprivchecker
+#####################
+####################
+
+PayloadsAllTheThings
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
+https://github.com/swisskyrepo/PayloadsAllTheThings
+#####################
+#####################
+
+WPSCAN
+WPScan is a free, for non-commercial use, black box WordPress Vulnerability Scanner written for security professionals
+https://github.com/wpscanteam/wpscan
+####################
+###################
+
+CRACKSTATION
+Free Password Hash Cracker
+https://crackstation.net/
