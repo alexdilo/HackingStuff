@@ -1,3 +1,11 @@
+RSACTFTOOL
+RSA tool for ctf - uncipher data from weak public key and try to recover private key Automatic selection of best attack for the given public key
+https://github.com/Ganapati/RsaCtfTool
+installation:
+https://www.codetd.com/en/article/7295197
+####################
+####################
+
 HASHID 
 Identify the different types of hashes used to encrypt data and especially passwords.
 ########################
@@ -52,3 +60,10 @@ https://github.com/wpscanteam/wpscan
 CRACKSTATION
 Free Password Hash Cracker
 https://crackstation.net/
+##################
+#################
+
+cipher-identifier and decoder
+https://www.boxentriq.com/code-breaking/cipher-identifier
+####################
+####################
