@@ -75,18 +75,7 @@ https://github.com/decalage2/ViperMonkey
 ##################
 
 BPSSTEGANO
-hide or extract encrypted message from images
+hide or extract encrypted message into image
 https://github.com/TapanSoni/BPStegano
-##################
-#################
-
-PINCTF
-sidechannel attack
-https://github.com/ChrisTheCoolHut/PinCTF
-##################
-#################
-
-DEVMOVFUSCATOR
-https://github.com/kirschju/demovfuscator
-#################
 ################
+#################
